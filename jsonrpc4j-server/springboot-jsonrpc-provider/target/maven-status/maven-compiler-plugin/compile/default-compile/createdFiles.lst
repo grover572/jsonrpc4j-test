@@ -1,0 +1,6 @@
+com\plf\jsonrpc\service\impl\BookServiceImpl.class
+com\plf\jsonrpc\rpc\service\impl\BookRpcServiceImpl.class
+com\plf\jsonrpc\service\BookService.class
+com\plf\jsonrpc\controller\BookController.class
+com\plf\jsonrpc\ProviderApp.class
+com\plf\jsonrpc\configuration\RpcConfiguration.class

@@ -1,0 +1,6 @@
+D:\Code\springboot-jsonrpc\springboot-jsonrpc-provider\src\main\java\com\plf\jsonrpc\ProviderApp.java
+D:\Code\springboot-jsonrpc\springboot-jsonrpc-provider\src\main\java\com\plf\jsonrpc\configuration\RpcConfiguration.java
+D:\Code\springboot-jsonrpc\springboot-jsonrpc-provider\src\main\java\com\plf\jsonrpc\service\BookService.java
+D:\Code\springboot-jsonrpc\springboot-jsonrpc-provider\src\main\java\com\plf\jsonrpc\controller\BookController.java
+D:\Code\springboot-jsonrpc\springboot-jsonrpc-provider\src\main\java\com\plf\jsonrpc\service\impl\BookServiceImpl.java
+D:\Code\springboot-jsonrpc\springboot-jsonrpc-provider\src\main\java\com\plf\jsonrpc\rpc\service\impl\BookRpcServiceImpl.java
